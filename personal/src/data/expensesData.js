@@ -1,0 +1,42 @@
+export const expensesData = [
+  {
+    id: 'exp-001',
+    title: 'College Cafeteria Lunch',
+    amount: 180,
+    category: 'Food',
+    date: '2026-05-20',
+    note: 'Lunch with classmates',
+  },
+  {
+    id: 'exp-002',
+    title: 'Bus Pass Recharge',
+    amount: 650,
+    category: 'Transport',
+    date: '2026-05-18',
+    note: 'Monthly bus pass',
+  },
+  {
+    id: 'exp-003',
+    title: 'Data Pack',
+    amount: 299,
+    category: 'Utilities',
+    date: '2026-05-15',
+    note: 'Phone internet recharge',
+  },
+  {
+    id: 'exp-004',
+    title: 'Stationery',
+    amount: 420,
+    category: 'Education',
+    date: '2026-05-12',
+    note: 'Notebook and markers',
+  },
+  {
+    id: 'exp-005',
+    title: 'Movie Night',
+    amount: 250,
+    category: 'Entertainment',
+    date: '2026-05-10',
+    note: 'Weekend break',
+  },
+]

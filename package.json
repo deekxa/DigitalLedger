@@ -1,0 +1,14 @@
+{
+  "name": "khusbu",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix personal run dev",
+    "build": "npm --prefix personal run build",
+    "lint": "npm --prefix personal run lint",
+    "preview": "npm --prefix personal run preview"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "^4.3.0",
+    "tailwindcss": "^4.3.0"
+  }
+}
