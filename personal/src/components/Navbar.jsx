@@ -26,7 +26,7 @@ function Navbar() {
             Expenses
           </NavLink>
           <NavLink to="/reports" className={navClass}>
-            Reports
+            Report
           </NavLink>
         </nav>
       </div>
